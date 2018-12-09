@@ -7,7 +7,7 @@ My deployment steps were based on this Microsoft article https://docs.microsoft.
 
 The initial steps executed in the Bash shell available in the Azure Portal (Cloud Shell)
 
-  az account set --subscription "Microsoft Azure Internal Consumption"
+  az account set --subscription "<your subscription name>"
 
   az webapp deployment user set --user-name <name> --password <password>
 
