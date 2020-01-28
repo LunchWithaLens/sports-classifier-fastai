@@ -1,7 +1,7 @@
-"# sports-classifier-fastai" 
+# sports-classifier-fastai 
 The code was based on the example at https://github.com/shankarj67/Water-classifier-fastai and some of my changes were due to fastai 24 -> 32, other maybe for Azure.
 
-##Azure Deployment
+## Azure Deployment
 
 My deployment steps were based on this Microsoft article https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python
 
